@@ -1,6 +1,6 @@
 /*
-    Name : Kansagara Kush;
-    ID   : 21CE051
+    Name : Rushit Rabadiya
+    ID   : 21CE111
 */
 class practical5_6 {
     public static void main(String[] args) {
