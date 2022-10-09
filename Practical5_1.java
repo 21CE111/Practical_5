@@ -1,6 +1,6 @@
 /*
-    Name : Kansagara Kush;
-    ID   : 21CE051
+    Name : Rushit Rabadiya
+    ID   : 21CE111
 */
 import java.io.File;
 class Practical5_1 {
